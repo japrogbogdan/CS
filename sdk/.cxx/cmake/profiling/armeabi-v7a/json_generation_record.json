@@ -1,0 +1,290 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/27.0.3/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/28.0.3/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/29.0.0/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/29.0.2/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/29.0.3/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/30.0.0-rc2/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/30.0.1/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/build-tools/30.0.2/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/cmdline-tools/latest/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/docs/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/emulator/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/google_play_services/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/instantapps/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/market_apk_expansion/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/market_licensing/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/simulators/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Premature end of file.:\norg.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.\n\tat com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)\n\tat com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)\n\tat com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)\n\tat com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)\n\tat com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)\n\tat com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1014)\n\tat com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)\n\tat com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)\n\tat com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)\n\tat com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)\n\tat com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)\n\tat com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)\n\tat com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)\n\tat com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)\n\tat org.xml.sax.helpers.XMLFilterImpl.parse(XMLFilterImpl.java:357)\n\tat com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(UnmarshallerImpl.java:258)\n\tat com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(UnmarshallerImpl.java:229)\n\tat javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:140)\n\tat javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(AbstractUnmarshallerImpl.java:123)\n\tat com.android.repository.impl.meta.SchemaModuleUtil.unmarshal(SchemaModuleUtil.java:192)\n\tat com.android.repository.impl.manager.LocalRepoLoaderImpl.parsePackage(LocalRepoLoaderImpl.java:313)\n\tat com.android.repository.impl.manager.LocalRepoLoaderImpl.parsePackages(LocalRepoLoaderImpl.java:160)\n\tat com.android.repository.impl.manager.LocalRepoLoaderImpl.getPackages(LocalRepoLoaderImpl.java:125)\n\tat com.android.repository.impl.manager.RepoManagerImpl$LoadTask.run(RepoManagerImpl.java:521)\n\tat com.android.repository.api.RepoManager$DummyProgressRunner.runSyncWithProgress(RepoManager.java:397)\n\tat com.android.repository.impl.manager.RepoManagerImpl.load(RepoManagerImpl.java:365)\n\tat com.android.repository.api.RepoManager.loadSynchronously(RepoManager.java:290)\n\tat com.android.sdklib.repository.AndroidSdkHandler$RepoConfig.createRepoManager(AndroidSdkHandler.java:731)\n\tat com.android.sdklib.repository.AndroidSdkHandler.getSdkManager(AndroidSdkHandler.java:297)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocatorKt.getSdkCmakePackages(CmakeLocator.kt:550)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocatorKt.access$getSdkCmakePackages(CmakeLocator.kt:1)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocator$findCmakePath$4.invoke(CmakeLocator.kt:636)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocator$findCmakePath$4.invoke(CmakeLocator.kt:623)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeSearchContext.tryLocalRepositoryPackages$gradle(CmakeLocator.kt:370)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocatorKt.findCmakePathLogic(CmakeLocator.kt:592)\n\tat com.android.build.gradle.internal.cxx.configure.CmakeLocator.findCmakePath(CmakeLocator.kt:629)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1$cmakeFolder$2.invoke(TryCreateCxxModuleModel.kt:185)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1$cmakeFolder$2.invoke(TryCreateCxxModuleModel.kt:179)\n\tat kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1.getCmakeFolder(TryCreateCxxModuleModel.kt)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1.access$getCmakeFolder$p(TryCreateCxxModuleModel.kt:179)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1$cmakeExe$2.invoke(TryCreateCxxModuleModel.kt:192)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1$cmakeExe$2.invoke(TryCreateCxxModuleModel.kt:179)\n\tat kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)\n\tat com.android.build.gradle.internal.cxx.model.TryCreateCxxModuleModelKt$tryCreateCxxModuleModel$3$cmake$1.getCmakeExe(TryCreateCxxModuleModel.kt)\n\tat com.android.build.gradle.tasks.CmakeExternalNativeJsonGenerator.getProcessBuilder(CmakeExternalNativeJsonGenerator.kt:111)\n\tat com.android.build.gradle.tasks.ExternalNativeJsonGenerator.buildForOneConfiguration(ExternalNativeJsonGenerator.java:312)\n\tat com.android.build.gradle.tasks.ExternalNativeJsonGenerator.buildForOneConfigurationConvertExceptions(ExternalNativeJsonGenerator.java:204)\n\tat com.android.build.gradle.tasks.ExternalNativeJsonGenerator.lambda$parallelBuild$1(ExternalNativeJsonGenerator.java:189)\n\tat java.util.concurrent.FutureTask.run(FutureTask.java:266)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n\tat java.lang.Thread.run(Thread.java:748)\n",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Found corrupted package.xml at /Users/bohdan/Library/Android/sdk/extras/google/simulators/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Invalid package.xml found at /Users/bohdan/Library/Android/sdk/extras/google/simulators/package.xml and failed to parse using fallback.",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/google/webdriver/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Found corrupted package.xml at /Users/bohdan/Library/Android/sdk/extras/google/webdriver/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Invalid package.xml found at /Users/bohdan/Library/Android/sdk/extras/google/webdriver/package.xml and failed to parse using fallback.",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/extras/intel/Hardware_Accelerated_Execution_Manager/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/lldb/3.1/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Found corrupted package.xml at /Users/bohdan/Library/Android/sdk/lldb/3.1/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: /Users/bohdan/Library/Android/sdk/lldb/3.1",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "Invalid package.xml found at /Users/bohdan/Library/Android/sdk/lldb/3.1/package.xml and failed to parse using fallback.",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/ndk/21.3.6528147/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/patcher/v4/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platform-tools/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platforms/android-26/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platforms/android-27/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platforms/android-28/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platforms/android-29/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/platforms/android-30/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/sources/android-27/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/sources/android-28/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/system-images/android-21/google_apis/x86/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/system-images/android-28/google_apis/x86/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/system-images/android-29/google_apis_playstore/x86/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing /Users/bohdan/Library/Android/sdk/tools/package.xml",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "tag": "profiling|armeabi-v7a"
+  }
+]

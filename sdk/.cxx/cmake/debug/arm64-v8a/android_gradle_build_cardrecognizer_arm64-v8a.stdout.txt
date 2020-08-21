@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/debug/arm64-v8a'
+ninja: no work to do.

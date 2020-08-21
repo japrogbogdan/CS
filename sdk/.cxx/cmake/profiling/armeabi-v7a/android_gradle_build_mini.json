@@ -1,0 +1,68 @@
+{
+  "buildFiles": [
+    "/Users/bohdan/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/armneon2x86sse/cmake/Config.cmake.in",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/libyuv/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/armneon2x86sse/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/crossplatform/CMakeLists.txt",
+    "/Users/bohdan/Library/Android/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/eigen/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/caffe/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/protobuf/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "protobuf-Release-armeabi-v7a": {
+      "artifactName": "protobuf",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" protobuf",
+      "abi": "armeabi-v7a",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a/protobuf/libprotobuf.a",
+      "runtimeFiles": []
+    },
+    "crossplatform-Release-armeabi-v7a": {
+      "artifactName": "crossplatform",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" crossplatform",
+      "abi": "armeabi-v7a",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a/crossplatform/libcrossplatform.a",
+      "runtimeFiles": []
+    },
+    "cardrecognizer-Release-armeabi-v7a": {
+      "artifactName": "cardrecognizer",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" cardrecognizer",
+      "abi": "armeabi-v7a",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/build/intermediates/cmake/profiling/obj/armeabi-v7a/libcardrecognizer.so",
+      "runtimeFiles": [
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/armeabi-v7a/libopencv_objdetect.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/armeabi-v7a/libopencv_imgcodecs.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/armeabi-v7a/libopencv_imgproc.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/armeabi-v7a/libopencv_ml.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/armeabi-v7a/libopencv_core.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/armeabi-v7a/libtbb.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/armeabi-v7a/libcpufeatures.a"
+      ]
+    },
+    "caffe-Release-armeabi-v7a": {
+      "artifactName": "caffe",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" caffe",
+      "abi": "armeabi-v7a",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a/caffe/libcaffe.a",
+      "runtimeFiles": []
+    },
+    "libyuv-Release-armeabi-v7a": {
+      "artifactName": "libyuv",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a\" libyuv",
+      "abi": "armeabi-v7a",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/profiling/armeabi-v7a/libyuv/liblibyuv.a",
+      "runtimeFiles": []
+    }
+  }
+}

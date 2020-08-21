@@ -1,0 +1,68 @@
+{
+  "buildFiles": [
+    "/Users/bohdan/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/armneon2x86sse/cmake/Config.cmake.in",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/libyuv/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/armneon2x86sse/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/crossplatform/CMakeLists.txt",
+    "/Users/bohdan/Library/Android/sdk/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-x86_64/OpenCVModules.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/eigen/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/caffe/CMakeLists.txt",
+    "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/protobuf/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "cardrecognizer-Release-x86_64": {
+      "artifactName": "cardrecognizer",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" cardrecognizer",
+      "abi": "x86_64",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/build/intermediates/cmake/release/obj/x86_64/libcardrecognizer.so",
+      "runtimeFiles": [
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/x86_64/libopencv_objdetect.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/x86_64/libopencv_imgcodecs.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/x86_64/libopencv_imgproc.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/x86_64/libopencv_ml.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/x86_64/libopencv_core.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/x86_64/libtbb.a",
+        "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/x86_64/libcpufeatures.a"
+      ]
+    },
+    "libyuv-Release-x86_64": {
+      "artifactName": "libyuv",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" libyuv",
+      "abi": "x86_64",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64/libyuv/liblibyuv.a",
+      "runtimeFiles": []
+    },
+    "crossplatform-Release-x86_64": {
+      "artifactName": "crossplatform",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" crossplatform",
+      "abi": "x86_64",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64/crossplatform/libcrossplatform.a",
+      "runtimeFiles": []
+    },
+    "caffe-Release-x86_64": {
+      "artifactName": "caffe",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" caffe",
+      "abi": "x86_64",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64/caffe/libcaffe.a",
+      "runtimeFiles": []
+    },
+    "protobuf-Release-x86_64": {
+      "artifactName": "protobuf",
+      "buildCommand": "/Users/bohdan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64\" protobuf",
+      "abi": "x86_64",
+      "output": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/release/x86_64/protobuf/libprotobuf.a",
+      "runtimeFiles": []
+    }
+  }
+}
