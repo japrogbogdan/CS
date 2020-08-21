@@ -46,7 +46,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation project(path: ":sdk")
+//    implementation project(path: ":sdk")
     //debugCompile project(path: ":sdk", configuration: 'release')
     //releaseCompile project(path: ":sdk", configuration: 'release')
     androidTestImplementation "com.android.support.test.espresso:espresso-core:$rootProject.ext.espressoVersion"
