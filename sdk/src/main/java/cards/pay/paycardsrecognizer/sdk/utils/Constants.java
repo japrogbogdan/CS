@@ -9,6 +9,8 @@ public class Constants {
 
     private Constants() { }
 
+
+
     public static final boolean DEBUG = BuildConfig.DEBUG;
 
     public static final String ASSETS_DIR = "cardrecognizer";
