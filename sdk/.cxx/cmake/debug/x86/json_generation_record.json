@@ -517,12 +517,6 @@
   },
   {
     "level": "INFO",
-    "message": "deleted unexpected build output /Users/bohdan/Downloads/PayCards_Android-master/sdk/build/intermediates/cmake/debug/obj/x86/libc++_shared.so in incremental regenerate",
-    "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
-    "tag": "debug|x86"
-  },
-  {
-    "level": "INFO",
     "message": "write command file /Users/bohdan/Downloads/PayCards_Android-master/sdk/.cxx/cmake/debug/x86/build_command.txt",
     "file": "/Users/bohdan/Downloads/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
     "tag": "debug|x86"
